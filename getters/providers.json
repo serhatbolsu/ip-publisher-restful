@@ -1,0 +1,20 @@
+{
+  "ipProviders": [
+    {
+      "name": "ipecho.net",
+      "url": "https://ipecho.net/plain"
+    },
+    {
+      "name": "ip4.me",
+      "url": "http://ip4.me/"
+    },
+    {
+      "name": "jsonip.com",
+      "url": "https://jsonip.com"
+    },
+    {
+      "name": "dyndns.org",
+      "url": "http://checkip.dyndns.org"
+    }
+  ]
+}
